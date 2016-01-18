@@ -4,7 +4,7 @@
 
 語言: ``Processing``,``C++``,``C``
 
-> Arduino 是一款便捷靈活、方便上手的開放源碼軟硬體平台，包含硬體（各種型號的 arduino板）和軟體（arduino IDE。它適用於藝術家、設計師、愛好者和對於“互動”有興趣的朋友們。 
+> Arduino 是一款便捷靈活、方便上手的開放源碼軟硬體平台，包含硬體（各種型號的 arduino板）和軟體（arduino IDE）它適用於藝術家、設計師、愛好者和對於“互動”有興趣的朋友們。 
 
 ![Arduino](../images/arduino.jpg)
 
