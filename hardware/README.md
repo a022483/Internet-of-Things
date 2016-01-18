@@ -1,20 +1,20 @@
-#物联网相关开源硬件
+#物聯網相關開源硬體
 
 ##Arduino
 
-语言: ``Processing``,``C++``,``C``
+語言: ``Processing``,``C++``,``C``
 
-> Arduino 是一款便捷灵活、方便上手的开源电子原型平台，包含硬件（各种型号的 arduino板）和软件（arduino IDE。她适用于艺术家、设计师、爱好者和对于“互动”有兴趣的朋友们。 
+> Arduino 是一款便捷靈活、方便上手的開放源碼軟硬體平台，包含硬體（各種型號的 arduino板）和軟體（arduino IDE。它適用於藝術家、設計師、愛好者和對於“互動”有興趣的朋友們。 
 
 ![Arduino](../images/arduino.jpg)
 
-> Arduino，是一个基于开放原始码的软硬体平台，构建于开放原始码simple I/O介面版，并且具有使用类似Java，C语言的Processing/Wiring开发环境。 
+> Arduino，是一個基於開放原始碼的軟硬體平台，構建於開放原始碼simple I/O介面板，並且具有使用類似Java，C語言的Processing/Wiring開發環境。 
 
-> Arduino能通过各种各样的传感器来感知环境，通过控制灯光、马达和其他的装置来反馈、影响环境。板子上的微控制器可以通过Arduino的编程语言来编写程序，编译成二进制文件，烧录进微控制器。对Arduino的编程是利用 Arduino编程语言 (基于Wiring)和 Arduino开发环境(based on Processing来实现的。基于Arduino的项目，可以只包含Arduino，也可以包含Arduino和其他一些在PC上运行的软件，他们之间进行通信 (比如 Flash, Processing, MaxMSP)来实现。
+> Arduino能通過各式各樣的傳感器來感知環境，通過控制燈光、馬達和其他的裝置來回饋、影響環境。板子上的微控制器可以通過Arduino的程式語言來編寫程式，編譯成二進制文件，燒錄進微控制器。對Arduino的编程是利用 Arduino程式語言 (基於Wiring)和 Arduino開發環境(based on Processing來實現的。基於Arduino的項目，可以只包含Arduino，也可以包含Arduino和其他一些在PC上運行的軟體，他們之間進行通訊 (比如 Flash, Processing, MaxMSP)來實現。
 
 [Arduino Yun](./ArduinoYun.md)
 
-> Arduino Yún是Linux与Arduino相结合的WiFi产品。Yún就是汉语中的”云“，目的是让该板子可轻松连接到复杂的网络服务。Arduino Yún是基于ATMEGA32U4和Atheros的AR9331，Atheros的处理器支持OpenWRT的名为Linino的Linux发行版，Arduino Yún已内置以太网和WiFi的支持，USB-A端口、Micro-SD卡插槽、20个数字输入/输出引脚（其中7个可作为PWM输出为模拟输入和12）、一个16 MHz晶体振荡器、一个微型USB连接、一个ICSP头和一个复位按钮。
+> Arduino Yún是Linux與Arduino相結合的WiFi產品。Yún就是漢語中的”雲“，目的是讓該版子可輕鬆連接到複雜的網絡服務。Arduino Yún是基於ATMEGA32U4和Atheros AR9331，Atheros AR9331可以運行一個基於Linux和OpenWRT的操作系統Linino，Arduino Yún已内建乙太網路和WiFi，支援USB-A端口、Micro-SD卡插槽、20個數位輸入/輸出端口（其中7個可以用於PWM, 12個可以用於Analog Input）、一個16 MHz晶體振盪器、一個微型USB連接、一個ICSP頭和一個復位按鈕。
 
 ##Raspberry Pi 
 
